@@ -15,8 +15,6 @@ For this analysis, I built and evaluated several machine-learning models to pred
 
 ## Conclusions
 
----
-
 ### Resampling
 
 I used the [imbalanced learn](https://imbalanced-learn.readthedocs.io) library to resample LendingClub data and build and evaluate logistic regression classifiers using the resampled data. The models/algoritms used include: Naive Random Oversampler, SMOTE, Cluster Centroids, and SMOTEENN. 
